@@ -1,0 +1,1 @@
+var json_Turdidae_6 = {"type":"FeatureCollection","name":"Turdidae_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"17","vid":"дрозд","count":"14","attach":"D:\\100_10\\Grant\\birds\\web GIS\\DCIM\\4.JPG"},"geometry":{"type":"Point","coordinates":[56.009700516986392,57.90715562739144]}}]}
